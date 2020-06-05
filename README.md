@@ -16,6 +16,9 @@ Create an email signature genterator for several divisions within company
 Font: Calibri
 Font size: 10
 
+## UX/UI Wireframe
+![](image/storyboard-esg.png)
+
 ## TODO:
 Add selectable tabs for iPad - iPhone - Outlook.
 Fix back arrow so that it works as expected. Clicking on the text following the back arrow returns to the previous screen.

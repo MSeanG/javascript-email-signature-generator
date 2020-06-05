@@ -17,4 +17,5 @@ Font: Calibri
 Font size: 10
 
 ## TODO:
-Add selectable tabs for iPad - iPhone - Outlook
+Add selectable tabs for iPad - iPhone - Outlook.
+Fix back arrow so that it works as expected. Clicking on the text following the back arrow returns to the previous screen.

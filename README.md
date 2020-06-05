@@ -23,5 +23,5 @@ Font size: 10
 (https://michael-sean.com/Portfolio/javascript/email-signature-generator/)
 
 ## TODO:
-Add selectable tabs for iPad - iPhone - Outlook.
-Fix back arrow so that it works as expected. Clicking on the text following the back arrow returns to the previous screen.
+1. Add selectable tabs for iPad - iPhone - Outlook.
+2. Fix back arrow so that it works as expected. Clicking on the text following the back arrow returns to the previous screen.

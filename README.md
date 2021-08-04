@@ -21,6 +21,7 @@ Font size: 10
 
 ## Example
 Select the "Sales Operations/Corporate" to create a custom title.
+
 (https://michael-sean.com/Portfolio/javascript/email-signature-generator/)
 
 ## TODO:

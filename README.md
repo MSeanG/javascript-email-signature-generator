@@ -20,7 +20,7 @@ Font size: 10
 ![](image/storyboard-esg.png)
 
 ## Example
-Select the "Sales Operations/Corporate" to create a custom title.
+Select the "Sales Operations/Corporate" after following the below link to create a custom title.
 
 (https://michael-sean.com/Portfolio/javascript/email-signature-generator/)
 
